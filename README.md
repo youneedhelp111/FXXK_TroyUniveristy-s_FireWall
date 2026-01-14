@@ -18,6 +18,8 @@
 
 我们不能就此妥协。面对这种不公平的行为以及不正当的监管，我们应当站出来表达反对，并寻求技术手段的突破。
 
+同样，当你前往中国大陆时，你也可以用一样的方式来绕过中国大陆的网络监管，访问Youtube,Ins,TroyUniversity_my.troy.edu,google.com等你在这里常用的网络服务
+
 </div>
 
 <div id="english-version" style="display: none;">
@@ -27,6 +29,8 @@
 We all desire a free and unregulated network environment. However, **Troy University** continues to upgrade its network surveillance equipment, stripping away our privacy and even banning accounts, which hinders our ability to study and live normally.
 
 We cannot compromise. We must oppose this unfair treatment and improper surveillance.
+
+Likewise, when you travel to mainland China, you can use the same method to bypass mainland China’s internet restrictions and access online services you commonly use here, such as YouTube, Instagram, TroyUniversity_my.troy.edu, and Google.com.
 
 </div>
 
